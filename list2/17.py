@@ -1,0 +1,1 @@
+print('one'*6 + 'two'*3)
